@@ -29,8 +29,8 @@
     
         VAR A,B:réels C:entier
         DEBUT 
-            A ← "2.3"
-            B ← "3.5" 
+            A ← 2.3
+            B ← 3.5 
             C ← A+B 
             Afficher C 
         FIN
