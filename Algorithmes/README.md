@@ -18,4 +18,3 @@ ps : Les consommations sont réputées à durée constante, sans interruption ju
   
 ### Et Johnny Hallyday dans tout ça ?  
 En suivant les mêmes règles, quel âge avait Johnny à sa mort ?  
-Jusqu'à quel âge aurait-il vécu s'il n'avait ni fumé ni bu toute sa vie (oui, bon en vrai, c'était à partir de 16 ans...) ?
