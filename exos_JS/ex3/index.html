@@ -27,18 +27,16 @@
             - En Javascript, ajouter la classe maClasse à l'élément maDiv.
         -->
 
-    <div id="test">Hello</div>
+    <div>Hello</div>
 
     <script>
 
-        var maDiv = document.querySelector("#test");
+        var maDiv = document.querySelector("div");
         console.log(maDiv);
-        
-        setTimeout(function(){
-            maDiv.classList.add("maClasse"); 
-            console.log(maDiv);
-        },20); 
-        
+        //ajout d'un attribut id
+        maDiv.setAttribute("id","test");
+        console.log(maDiv);
+        //ajout d'une classe à l'élément
         maDiv.classList.add("maClasse"); 
        
         console.log(maDiv);
