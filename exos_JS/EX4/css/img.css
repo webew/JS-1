@@ -22,12 +22,6 @@ article div{
     position:absolute;
     transition:all .3s ease-in-out;
 }
-article div:nth-child(1){
-    background:url(../images/paysage_1.jpg) 50% 50% no-repeat;
-}
-article div:nth-child(2){
-    background:url(../images/paysage_2.jpg) 50% 50% no-repeat;
-}
 .invisible{
     opacity:0;
 }
