@@ -22,7 +22,7 @@
 </p>
 
 <p>
-    A tester également : <a href='https://datatables.net/'></a>
+    A tester également : <a href='https://datatables.net/'>Datatables</a>
 </p>
 
 # Créez le votre !
